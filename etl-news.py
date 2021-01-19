@@ -56,5 +56,3 @@ for article in fox_articles:
     insert(mycursor,transform(article))
 mydb.commit()
 
-mydb.commit()
-
